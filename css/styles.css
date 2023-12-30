@@ -99,9 +99,6 @@ color: var(--IRIS, #4D5AE5);
     background-color: #FFFFFF;
 }
 
-.visually-hidden {
-    visibility: hidden;
-}
 
 .advantages-list {
     background-color: #FFFFFF;
