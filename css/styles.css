@@ -125,12 +125,10 @@ color: var(--IRIS, #4D5AE5);
 
 .team-title {
     color: var(--NAVY-BLUE, #2E2F42);
-    text-align: center;
+        text-align: center;
         font-size: 36px;
         font-weight: 700;
         line-height: 1.11;
-        letter-spacing: 0.02em;
-        text-transform: capitalize;
 }
 
 .team-list-item {
@@ -147,7 +145,7 @@ color: var(--IRIS, #4D5AE5);
 
 .team-job {
     color: var(--SLATE, #434455);
-    text-align: center;
+        text-align: center;
         font-size: 16px;
         line-height: 1.50;
         letter-spacing: 0.02em;
